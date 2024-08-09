@@ -1,0 +1,86 @@
+{
+  "project_info": {
+    "project_number": "367047471727",
+    "project_id": "belajar-react-native-3cfbc",
+    "storage_bucket": "belajar-react-native-3cfbc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:367047471727:android:87c842f3fd671cdd00539a",
+        "android_client_info": {
+          "package_name": "com.banksultra.alfian"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4joixY8Wa-5A3b_6zkb6gUwYLn8hyXGM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:367047471727:android:c8841535009ab89f00539a",
+        "android_client_info": {
+          "package_name": "com.day8"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4joixY8Wa-5A3b_6zkb6gUwYLn8hyXGM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:367047471727:android:3eb555a65b23db1500539a",
+        "android_client_info": {
+          "package_name": "com.finalproject"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4joixY8Wa-5A3b_6zkb6gUwYLn8hyXGM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:367047471727:android:ab9d2ea7cc58bfaa00539a",
+        "android_client_info": {
+          "package_name": "com.pushnotif"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4joixY8Wa-5A3b_6zkb6gUwYLn8hyXGM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
